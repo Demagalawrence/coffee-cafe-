@@ -4,8 +4,6 @@ arelle-release==2.37.56
 asgiref==3.9.1
 attrs==25.3.0
 bottle==0.13.4
-# Editable install with no version control (carbon-txt==0.0.17)
--e c:\users\medisoft\desktop\carbon-txt-validator
 certifi==2025.8.3
 charset-normalizer==3.4.4
 click==8.2.1
